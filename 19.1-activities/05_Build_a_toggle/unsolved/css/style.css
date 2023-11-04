@@ -1,0 +1,30 @@
+/* Style your dropdown below! */
+* {
+    margin:0 0;
+    padding: 0 0;
+    background-color: rgb(198, 183, 183);
+}
+.container{
+    margin: 0 auto;
+    list-style-type: none;
+    text-align: center;
+    width: fit-content;
+    color: aliceblue;
+    width: 300px;
+
+}
+
+
+#toggle li {
+    cursor: pointer;
+    list-style-type: none;
+}
+
+#toggle {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+#toggle img {
+    height: 12px;
+}
